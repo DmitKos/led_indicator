@@ -12,3 +12,5 @@ Parts:
 - Resistor 330R,
 - Breadboard,
 - Wires.
+
+![wemos_led_indicator](https://github.com/DmitKos/led_indicator/blob/main/wemos_d1_mini_sigral_leds_bb.png)
